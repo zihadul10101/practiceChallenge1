@@ -83,22 +83,12 @@
             android:layout_weight=".5"
             android:layout_margin="10dp"
             >
-
-            <soup.neumorphism.NeumorphButton
+            <soup.neumorphism.NeumorphImageButton
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:layout_margin="5dp"
-                app:neumorph_shadowColorDark="#FFC107"
-                app:neumorph_shadowColorLight="#3F51B5"
-                app:neumorph_shapeType="basin"
-                android:clickable="true"
-                android:focusable="true"
-                />
-            <soup.neumorphism.NeumorphButton
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
+                android:src="@drawable/number_one"
+                android:scaleType="fitXY"
                 android:layout_margin="5dp"
                 app:neumorph_shadowColorDark="#FFC107"
                 app:neumorph_shadowColorLight="#FFFFFF"
@@ -106,10 +96,12 @@
                 android:clickable="true"
                 android:focusable="true"
                 />
-            <soup.neumorphism.NeumorphButton
+            <soup.neumorphism.NeumorphImageButton
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:src="@drawable/number_one"
+                android:scaleType="fitXY"
                 android:layout_margin="5dp"
                 app:neumorph_shadowColorDark="#FFC107"
                 app:neumorph_shadowColorLight="#FFFFFF"
@@ -117,10 +109,12 @@
                 android:clickable="true"
                 android:focusable="true"
                 />
-            <soup.neumorphism.NeumorphButton
+            <soup.neumorphism.NeumorphImageButton
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:src="@drawable/number_one"
+                android:scaleType="fitXY"
                 android:layout_margin="5dp"
                 app:neumorph_shadowColorDark="#FFC107"
                 app:neumorph_shadowColorLight="#FFFFFF"
@@ -128,164 +122,12 @@
                 android:clickable="true"
                 android:focusable="true"
                 />
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:orientation="horizontal"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight=".5"
-            android:layout_margin="10dp"
-            >
-
-            <soup.neumorphism.NeumorphButton
+            <soup.neumorphism.NeumorphImageButton
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:layout_margin="5dp"
-                app:neumorph_shadowColorDark="#FFC107"
-                app:neumorph_shadowColorLight="#FFFFFF"
-                app:neumorph_shapeType="basin"
-                android:clickable="true"
-                android:focusable="true"
-                />
-            <soup.neumorphism.NeumorphButton
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:layout_margin="5dp"
-                app:neumorph_shadowColorDark="#FFC107"
-                app:neumorph_shadowColorLight="#FFFFFF"
-                app:neumorph_shapeType="basin"
-                android:clickable="true"
-                android:focusable="true"
-                />
-            <soup.neumorphism.NeumorphButton
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:layout_margin="5dp"
-                app:neumorph_shadowColorDark="#FFC107"
-                app:neumorph_shadowColorLight="#FFFFFF"
-                app:neumorph_shapeType="basin"
-                android:clickable="true"
-                android:focusable="true"
-                />
-            <soup.neumorphism.NeumorphButton
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:layout_margin="5dp"
-                app:neumorph_shadowColorDark="#FFC107"
-                app:neumorph_shadowColorLight="#FFFFFF"
-                app:neumorph_shapeType="basin"
-                android:clickable="true"
-                android:focusable="true"
-                />
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:orientation="horizontal"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight=".5"
-            android:layout_margin="10dp"
-            >
-
-            <soup.neumorphism.NeumorphButton
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:layout_margin="5dp"
-                app:neumorph_shadowColorDark="#FFC107"
-                app:neumorph_shadowColorLight="#FFFFFF"
-                app:neumorph_shapeType="basin"
-                android:clickable="true"
-                android:focusable="true"
-                />
-            <soup.neumorphism.NeumorphButton
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:layout_margin="5dp"
-                app:neumorph_shadowColorDark="#FFC107"
-                app:neumorph_shadowColorLight="#FFFFFF"
-                app:neumorph_shapeType="basin"
-                android:clickable="true"
-                android:focusable="true"
-                />
-            <soup.neumorphism.NeumorphButton
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:layout_margin="5dp"
-                app:neumorph_shadowColorDark="#FFC107"
-                app:neumorph_shadowColorLight="#FFFFFF"
-                app:neumorph_shapeType="basin"
-                android:clickable="true"
-                android:focusable="true"
-                />
-            <soup.neumorphism.NeumorphButton
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:layout_margin="5dp"
-                app:neumorph_shadowColorDark="#FFC107"
-                app:neumorph_shadowColorLight="#FFFFFF"
-                app:neumorph_shapeType="basin"
-                android:clickable="true"
-                android:focusable="true"
-                />
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:orientation="horizontal"
-            android:layout_width="match_parent"
-            android:layout_height="0dp"
-            android:layout_weight=".5"
-            android:layout_margin="10dp"
-            >
-
-            <soup.neumorphism.NeumorphButton
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:layout_margin="5dp"
-                app:neumorph_shadowColorDark="#FFC107"
-                app:neumorph_shadowColorLight="#FFFFFF"
-                app:neumorph_shapeType="basin"
-                android:clickable="true"
-                android:focusable="true"
-                />
-            <soup.neumorphism.NeumorphButton
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:layout_margin="5dp"
-                app:neumorph_shadowColorDark="#FFC107"
-                app:neumorph_shadowColorLight="#FFFFFF"
-                app:neumorph_shapeType="basin"
-                android:clickable="true"
-                android:focusable="true"
-                />
-            <soup.neumorphism.NeumorphButton
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
-                android:layout_margin="5dp"
-                app:neumorph_shadowColorDark="#FFC107"
-                app:neumorph_shadowColorLight="#FFFFFF"
-                app:neumorph_shapeType="basin"
-                android:clickable="true"
-                android:focusable="true"
-                />
-            <soup.neumorphism.NeumorphButton
-                android:layout_width="0dp"
-                android:layout_height="match_parent"
-                android:layout_weight="1"
+                android:src="@drawable/number_one"
+                android:scaleType="fitXY"
                 android:layout_margin="5dp"
                 app:neumorph_shadowColorDark="#FFC107"
                 app:neumorph_shadowColorLight="#FFFFFF"
@@ -317,10 +159,12 @@
                 android:clickable="true"
                 android:focusable="true"
                 />
-            <soup.neumorphism.NeumorphButton
+            <soup.neumorphism.NeumorphImageButton
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:src="@drawable/number_one"
+                android:scaleType="fitXY"
                 android:layout_margin="5dp"
                 app:neumorph_shadowColorDark="#FFC107"
                 app:neumorph_shadowColorLight="#FFFFFF"
@@ -328,10 +172,12 @@
                 android:clickable="true"
                 android:focusable="true"
                 />
-            <soup.neumorphism.NeumorphButton
+            <soup.neumorphism.NeumorphImageButton
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:src="@drawable/number_one"
+                android:scaleType="fitXY"
                 android:layout_margin="5dp"
                 app:neumorph_shadowColorDark="#FFC107"
                 app:neumorph_shadowColorLight="#FFFFFF"
@@ -339,10 +185,201 @@
                 android:clickable="true"
                 android:focusable="true"
                 />
-            <soup.neumorphism.NeumorphButton
+            <soup.neumorphism.NeumorphImageButton
                 android:layout_width="0dp"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
+                android:src="@drawable/number_one"
+                android:scaleType="fitXY"
+                android:layout_margin="5dp"
+                app:neumorph_shadowColorDark="#FFC107"
+                app:neumorph_shadowColorLight="#FFFFFF"
+                app:neumorph_shapeType="basin"
+                android:clickable="true"
+                android:focusable="true"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".5"
+            android:layout_margin="10dp"
+            >
+
+            <soup.neumorphism.NeumorphImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/seven"
+                android:scaleType="fitXY"
+                android:layout_margin="5dp"
+                app:neumorph_shadowColorDark="#FFC107"
+                app:neumorph_shadowColorLight="#FFFFFF"
+                app:neumorph_shapeType="basin"
+                android:clickable="true"
+                android:focusable="true"
+                />
+            <soup.neumorphism.NeumorphImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/number_eight"
+                android:scaleType="fitXY"
+                android:layout_margin="5dp"
+                app:neumorph_shadowColorDark="#FFC107"
+                app:neumorph_shadowColorLight="#FFFFFF"
+                app:neumorph_shapeType="basin"
+                android:clickable="true"
+                android:focusable="true"
+                />
+            <soup.neumorphism.NeumorphImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/number_nine"
+                android:scaleType="fitXY"
+                android:layout_margin="5dp"
+                app:neumorph_shadowColorDark="#FFC107"
+                app:neumorph_shadowColorLight="#FFFFFF"
+                app:neumorph_shapeType="basin"
+                android:clickable="true"
+                android:focusable="true"
+                />
+            <soup.neumorphism.NeumorphImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/number_one"
+                android:scaleType="fitXY"
+                android:layout_margin="5dp"
+                app:neumorph_shadowColorDark="#FFC107"
+                app:neumorph_shadowColorLight="#FFFFFF"
+                app:neumorph_shapeType="basin"
+                android:clickable="true"
+                android:focusable="true"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".5"
+            android:layout_margin="10dp"
+            >
+
+            <soup.neumorphism.NeumorphImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/number_four"
+                android:scaleType="fitXY"
+                android:layout_margin="5dp"
+                app:neumorph_shadowColorDark="#FFC107"
+                app:neumorph_shadowColorLight="#FFFFFF"
+                app:neumorph_shapeType="basin"
+                android:clickable="true"
+                android:focusable="true"
+                />
+            <soup.neumorphism.NeumorphImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/number_five"
+                android:scaleType="fitXY"
+                android:layout_margin="5dp"
+                app:neumorph_shadowColorDark="#FFC107"
+                app:neumorph_shadowColorLight="#FFFFFF"
+                app:neumorph_shapeType="basin"
+                android:clickable="true"
+                android:focusable="true"
+                />
+            <soup.neumorphism.NeumorphImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/six"
+                android:scaleType="fitXY"
+                android:layout_margin="5dp"
+                app:neumorph_shadowColorDark="#FFC107"
+                app:neumorph_shadowColorLight="#FFFFFF"
+                app:neumorph_shapeType="basin"
+                android:clickable="true"
+                android:focusable="true"
+                />
+            <soup.neumorphism.NeumorphImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/seven"
+                android:scaleType="fitXY"
+                android:layout_margin="5dp"
+                app:neumorph_shadowColorDark="#FFC107"
+                app:neumorph_shadowColorLight="#FFFFFF"
+                app:neumorph_shapeType="basin"
+                android:clickable="true"
+                android:focusable="true"
+                />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".5"
+            android:layout_margin="10dp"
+            >
+
+            <soup.neumorphism.NeumorphImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/number_one"
+                android:scaleType="fitXY"
+                android:layout_margin="5dp"
+                app:neumorph_shadowColorDark="#FFC107"
+                app:neumorph_shadowColorLight="#FFFFFF"
+                app:neumorph_shapeType="basin"
+                android:clickable="true"
+                android:focusable="true"
+                />
+            <soup.neumorphism.NeumorphImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/number_two"
+                android:scaleType="fitXY"
+                android:layout_margin="5dp"
+                app:neumorph_shadowColorDark="#FFC107"
+                app:neumorph_shadowColorLight="#FFFFFF"
+                app:neumorph_shapeType="basin"
+                android:clickable="true"
+                android:focusable="true"
+                />
+            <soup.neumorphism.NeumorphImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/number_three"
+                android:scaleType="fitXY"
+                android:layout_margin="5dp"
+                app:neumorph_shadowColorDark="#FFC107"
+                app:neumorph_shadowColorLight="#FFFFFF"
+                app:neumorph_shapeType="basin"
+                android:clickable="true"
+                android:focusable="true"
+                />
+            <soup.neumorphism.NeumorphImageButton
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:src="@drawable/number_one"
+                android:scaleType="fitXY"
                 android:layout_margin="5dp"
                 app:neumorph_shadowColorDark="#FFC107"
                 app:neumorph_shadowColorLight="#FFFFFF"
