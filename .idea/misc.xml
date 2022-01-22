@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Maa/Desktop/practiceChallenge1/app/src/main/res/drawable/bottom_shade.xml" value="0.14635416666666667" />
+        <entry key="..\:/Users/Maa/Desktop/practiceChallenge1/app/src/main/res/drawable/circle_transparent.xml" value="0.2703125" />
+        <entry key="..\:/Users/Maa/Desktop/practiceChallenge1/app/src/main/res/drawable/circle_two_colored.xml" value="0.2703125" />
+        <entry key="..\:/Users/Maa/Desktop/practiceChallenge1/app/src/main/res/drawable/red_button.xml" value="0.2703125" />
         <entry key="..\:/Users/Maa/Desktop/practiceChallenge1/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Maa/Desktop/practiceChallenge1/app/src/main/res/layout/food.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
